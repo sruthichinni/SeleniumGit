@@ -35,7 +35,7 @@ public class Log4jDemo {
 		log.info("Clicking enter");
 		
 		driver.navigate().back();
-		log.info("returning back to the google search page");
+		log.info("Returning back to the google search page");
 		
 		driver.navigate().forward();
 		log.info("returning forward to search results");
