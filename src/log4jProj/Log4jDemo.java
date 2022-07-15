@@ -23,7 +23,7 @@ public class Log4jDemo {
 		log.info("Launched chrome browser window");
 		
 		driver.manage().window().maximize();
-		log.info("Window maximize");
+		log.info("Browser Window maximize");
 		
 		driver.get("http://www.google.com");
 		log.info("Opening URL in browser");
