@@ -1,0 +1,18 @@
+2022-07-15 16:16:37,113 [main] INFO Google - launched chrome browser
+2022-07-15 16:16:37,418 [main] INFO Google - window maximize
+2022-07-15 16:16:40,559 [main] INFO Google -  opening URL in browser
+2022-07-15 16:32:53,831 [main] INFO Google - launched chrome browser
+2022-07-15 16:32:54,186 [main] INFO Google - window maximize
+2022-07-15 16:32:56,802 [main] INFO Google -  opening URL in browser
+2022-07-15 16:32:57,050 [main] INFO Google - searching log4j tutorials
+2022-07-15 16:32:58,618 [main] INFO Google - clicking enter
+2022-07-15 16:32:58,711 [main] INFO Google - returning back to the google search page
+2022-07-15 18:24:04,266 [main] INFO Google - Launched chrome browser window
+2022-07-15 18:24:04,824 [main] INFO Google - Window maximize
+2022-07-15 18:24:08,291 [main] INFO Google - Opening URL in browser
+2022-07-15 18:24:08,767 [main] INFO Google - Searching log4j tutorials
+2022-07-15 18:24:11,388 [main] INFO Google - Clicking enter
+2022-07-15 18:24:11,616 [main] INFO Google - returning back to the google search page
+2022-07-15 18:24:11,917 [main] INFO Google - returning forward to search results
+2022-07-15 18:24:13,919 [main] INFO Google - wait for 2 seconds
+2022-07-15 18:24:16,299 [main] INFO Google - closing the browser
